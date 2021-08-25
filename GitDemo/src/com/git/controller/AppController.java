@@ -24,4 +24,9 @@ public class AppController {
 		System.out.println("Method printByNameAndId");
 	}
 	
+	public void printByAddress() {
+		System.out.println("Method printById printByAddress");
+		
+	}
+	
 }
