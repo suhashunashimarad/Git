@@ -4,7 +4,6 @@ public class AppController {
 
 	public AppController() {
 		super();
-		// TODO Auto-generated constructor stub
 	}
 
 	public void printById() {
