@@ -26,7 +26,10 @@ public class AppController {
 	
 	public void printByAddress() {
 		System.out.println("Method printById printByAddress");
-		
+	}
+	
+	public void printByCity() {
+		System.out.println("Method printByCity");
 	}
 	
 }
