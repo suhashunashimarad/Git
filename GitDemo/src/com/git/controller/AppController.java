@@ -6,4 +6,9 @@ public class AppController {
 		System.out.println("Method changes");
 		
 	}
+	
+	public void printById() {
+		System.out.println("Method printById");
+		
+	}
 }
