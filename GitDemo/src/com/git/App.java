@@ -14,4 +14,7 @@ public class App {
 		
 	}
 	
+		public void findAll() {
+		System.out.println("Method findAll");
+	}
 }
