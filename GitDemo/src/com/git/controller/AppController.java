@@ -8,6 +8,7 @@ public class AppController {
 	}
 
 	public void printById() {
+		System.out.println("Method printById changes");
 		System.out.println("Method printById");
 	}
 	
