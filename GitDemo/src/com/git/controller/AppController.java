@@ -1,9 +1,7 @@
 package com.git.controller;
 
 public class AppController {
-	
-	public AppController(){
-	}
+
 	
 	public void printById() {
 		System.out.println("Method printById");
