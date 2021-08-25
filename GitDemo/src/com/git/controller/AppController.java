@@ -9,4 +9,8 @@ public class AppController {
 	public void printById() {
 		System.out.println("Method printById");
 	}
+	
+	public void findAll() {
+		System.out.println("Method findAll");
+	}
 }
