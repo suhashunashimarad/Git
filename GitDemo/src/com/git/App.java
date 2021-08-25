@@ -8,9 +8,7 @@ public class App {
 		System.out.println("Dev1 Changes");
 		
 		System.out.println("Dev2 Changes");
-		System.out.println("Dev2 Changes");
-		System.out.println("Dev2 Changes");
-		System.out.println("Dev2 Changes");
+		
 		
 	}
 
