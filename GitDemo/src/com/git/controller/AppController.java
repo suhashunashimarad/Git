@@ -13,4 +13,9 @@ public class AppController {
 	public void findAll() {
 		System.out.println("Method findAll");
 	}
+	
+	public void printByNameAndId() {
+		System.out.println("Method printByNameAndId");
+	}
+	
 }
