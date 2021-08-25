@@ -9,4 +9,12 @@ public class AppController {
 	public void printById() {
 		System.out.println("Method printById");
 	}
+	
+	public void printByName() {
+		System.out.println("Method printByName");
+	}
+	public void printByNameAndId() {
+		System.out.println("Method printByNameAndId");
+	}
+	
 }
