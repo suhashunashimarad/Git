@@ -4,6 +4,5 @@ public class AppController {
 
 	public void printAllMethod() {
 		System.out.println("Method changes");
-		
 	}
 }
