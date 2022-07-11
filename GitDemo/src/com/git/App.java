@@ -11,6 +11,8 @@ public class App {
 
 		System.out.println("Local changes for feature branch ");
 
+		System.out.println("IntelliJ Changes ");
+
 	}
 
 	public void findAll() {
