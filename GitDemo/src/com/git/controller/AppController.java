@@ -29,6 +29,7 @@ public class AppController {
 	
 	public void printByCity() {
 		System.out.println("Method printByCity-IntelliJ changes - Conflict  ");
+		System.out.println("Added New Line in GIT ");
 	}
 	
 }
