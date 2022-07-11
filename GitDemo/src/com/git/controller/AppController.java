@@ -28,7 +28,7 @@ public class AppController {
 	}
 	
 	public void printByCity() {
-		System.out.println("Method printByCity-IntelliJ changes ");
+		System.out.println("Method printByCity-IntelliJ changes - Conflict ");
 	}
 	
 }
