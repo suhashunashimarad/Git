@@ -3,7 +3,6 @@ package com.git.controller;
 public class AppController {
 
 	public AppController() {
-			
 		super();
 	}
 
@@ -29,7 +28,7 @@ public class AppController {
 	}
 	
 	public void printByCity() {
-		System.out.println("Method printByCity in GIT");
+		System.out.println("Method printByCity-IntelliJ changes - Conflict  ");
 	}
 	
 }
